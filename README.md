@@ -28,6 +28,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jevlomcn&show_icons=true&locale=en" alt="jevlomcn" /></p>
 
+<a href="https://github.com/jevlomcn/github-stats">
+<img src="https://github.com/jevlomcn/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/jevlomcn/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+</a>
+
 
 <p align="center">
   <img width="800" height="67" src="https://www.mirfiles.com/resources/mir2/users/Jev/Mir1/Wiki/Mir1Banner.gif">
