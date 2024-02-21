@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jevlomcn" alt="jevlomcn" /></a> </p>
 
-- 🔭 I’m currently working on [Carbon Mir 1](https://www.lomcn.net/forum/threads/introducing-legend-of-mir-1.111210/)
+- 🔭 I’m currently working on [Carbon Mir 1](https://www.lomcn.net/forum/threads/introducing-legend-of-mir-1.111210/) & [Topaz Mir 4](https://www.lomcn.net/forum/threads/we-need-your-help.111860/)
 
 - 🌱 I’m currently learning **C#**
 
