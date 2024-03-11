@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://discord.gg/nHQMSgCwDu](https://discord.gg/nHQMSgCwDu)
 
-- 💬 Ask me about **Mir 1/2**
+- 💬 Ask me about **Mir 1/2/4**
 
 - 📫 How to reach me **Jev @ LOMCN.net**
 
