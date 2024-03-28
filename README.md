@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jevlomcn" alt="jevlomcn" /></a> </p>
 
-- 🔭 I’m currently working on [Carbon Mir 1](https://www.lomcn.net/forum/threads/introducing-legend-of-mir-1.111210/) & [Topaz Mir 4](https://www.lomcn.net/forum/threads/we-need-your-help.111860/)
+- 🔭 I’m currently working on [Carbon Mir 1](https://github.com/JevLOMCN/mir1) & [Crystal Mir 2](https://github.com/Suprcode/Crystal) & [Topaz Mir 4](https://github.com/JevLOMCN/mir4-launchers)
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [https://discord.gg/nHQMSgCwDu](https://discord.gg/nHQMSgCwDu)
+- 👨‍💻 All of my projects are available at [Discord](https://discord.gg/Mir4)
 
 - 💬 Ask me about **Mir 1/2/4**
 
-- 📫 How to reach me **Jev @ LOMCN.net**
+- 📫 How to reach me **Jev @ [LOMCN](https://www.lomcn.net/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
