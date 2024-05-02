@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jevlomcn" alt="jevlomcn" /></a> </p>
 
-- 🔭 I’m currently working on [Carbon Mir 1](https://github.com/JevLOMCN/mir1) & [Crystal Mir 2](https://github.com/Suprcode/Crystal) & [Topaz Mir 4](https://github.com/JevLOMCN/mir4-launchers)
+- 🔭 I’m currently working on [Carbon Mir 1](https://github.com/JevLOMCN/mir1) & [Crystal Mir 2](https://github.com/Suprcode/Crystal) & [Topaz Mir 4](https://github.com/JevLOMCN/mir4-launchers) [Mir3D EMU](https://github.com/damianday/Conquer)
 
 - 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [Discord](https://discord.gg/Mir4)
 
-- 💬 Ask me about **Mir 1/2/4**
+- 💬 Ask me about **Mir 1/2/3D EMU/4**
 
 - 📫 How to reach me **Jev @ [LOMCN](https://www.lomcn.net/)**
 
