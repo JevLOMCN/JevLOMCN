@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [Discord](https://discord.gg/Mir4)
-
 - 💬 Ask me about **Mir 1/2/3D EMU/4**
 
 - 📫 How to reach me **Jev @ [LOMCN](https://www.lomcn.net/)**
