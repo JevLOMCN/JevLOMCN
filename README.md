@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jevlomcn" alt="jevlomcn" /></a> </p>
 
-- 🔭 I’m currently working on [Carbon Mir 1](https://github.com/JevLOMCN/mir1) & [Crystal Mir 2](https://github.com/Suprcode/Crystal) & [Topaz Mir 4](https://github.com/JevLOMCN/mir4-launchers) & [Mir3D EMU](https://github.com/damianday/Conquer)
+- 🔭 I’m currently working on [Carbon Mir 1](https://github.com/JevLOMCN/mir1) & [Crystal Mir 2](https://github.com/Suprcode/Crystal) & [Topaz Mir 4](https://github.com/JevLOMCN/Topaz) & [Mir3D EMU](https://github.com/damianday/Conquer)
 
 - 🌱 I’m currently learning **C#**
 
