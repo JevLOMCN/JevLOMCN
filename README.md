@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [Carbon Mir 1](https://github.com/JevLOMCN/mir1) & [Crystal Mir 2](https://github.com/Suprcode/Crystal) & [Topaz Mir 4](https://github.com/JevLOMCN/Topaz) & [Mir3D EMU](https://github.com/damianday/Conquer)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# / C++**
 
 - 💬 Ask me about **Mir 1/2/3D EMU/4**
 
-- 📫 How to reach me **Jev @ [LOMCN](https://www.lomcn.net/)**
+- 📫 How to reach me **Jev @ [LOMCN](https://www.lomcn.net/) & [RageZone](https://forum.ragezone.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
