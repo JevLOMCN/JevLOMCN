@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Mir 1/2/4 developer from Worthing, UK</h3>
 
-<h3 align="center"> Staff @ [RageZone](https://forum.ragezone.com) Ex-Staff @ [LOMCN](https://www.lomcn.net) </h3>
+<h3 align="center"> Staff @ RageZone.com // Ex-Staff @ LOMCN.net </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jevlomcn&label=Profile%20views&color=0e75b6&style=flat" alt="jevlomcn" /> </p>
 
