@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **Jev @ [LOMCN](https://www.lomcn.net/) & [RageZone](https://forum.ragezone.com/)**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
