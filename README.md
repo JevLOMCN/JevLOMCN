@@ -4,6 +4,8 @@
 
 <h3 align="center"> Staff @ RageZone.com & LOMCN.net </h3>
 
+https://www.lomcn.net/forum/data/profile_banners/l/29/29880.jpg?1734131836
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jevlomcn&label=Profile%20views&color=0e75b6&style=flat" alt="jevlomcn" /> </p>
 
 <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=jevlomcn" alt="jevlomcn" /></a> </p>
