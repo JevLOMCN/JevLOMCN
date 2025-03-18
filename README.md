@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Mir 1/2/4 developer from Worthing, UK</h3>
 
-<h3 align="center"> Staff @ RageZone.com & LOMCN.net </h3>
+<h3 align="center"> Staff @ RageZone.com  </h3>
 
 <p align="left"> <img src="http://jibanapp.com/static/img/%E6%AF%94%E5%A5%871920X1080-2.jpg"/> </p>
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Mir 1/2/3D EMU/4**
 
-- 📫 How to reach me **Jev @ [LOMCN](https://www.lomcn.net/) & [RageZone](https://forum.ragezone.com/)**
+- 📫 How to reach me **Jev @ [RageZone](https://forum.ragezone.com/)**
 
 <p align="left">
 </p>
