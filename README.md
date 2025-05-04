@@ -2,7 +2,18 @@
 
 <h3 align="center">A passionate Mir 1/2/4 developer from Worthing, UK</h3>
 
-<h3 align="center"> Staff @ RaGEZONE.com </h3>
+<h3 align="center">
+  Staff @
+  <a href="https://www.ragezone.com" target="_blank" rel="noopener noreferrer">
+    RaGEZONE.com
+  </a>
+</h3>
+<h3 align="center">
+  Owner @
+  <a href="https://thelegendofmir.uk" target="_blank" rel="noopener noreferrer">
+    thelegendofmir.uk
+  </a>
+</h3>
 
 <p align="left"> <img src="http://jibanapp.com/static/img/%E6%AF%94%E5%A5%871920X1080-2.jpg"/> </p>
 
