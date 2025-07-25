@@ -94,7 +94,7 @@ Start with [thelegendofmir.uk](https://thelegendofmir.uk) if you're brave.
 
 > **Do you accept contributions?**  
 Absolutely — clean, focused pull requests are always welcome.  
-If you're familiar with Crystal Mir 2, you'll know Far sets the bar high — and honestly, that's a good thing.
+If you're familiar with Crystal Mir 2, you'll know [Far](https://github.com/Suprcode) sets the bar high — and honestly, that's a good thing.
 
 ---
 
