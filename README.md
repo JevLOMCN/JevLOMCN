@@ -85,16 +85,16 @@ Yes — all my projects are open source and free to use however you like.
 Fork it, modify it, remix it. Just don’t blame me if it explodes.
 
 > **Will you help me set up a server?**  
-If I’ve got time and you’re not asking for spoon-feeding.  
-Bonus points if you've already read the docs or watched a setup video.
+If I’ve got time and you’ve shown some effort.  
+Best place to ask for help or find guides is over at [LOMCN.net](https://www.lomcn.net) — it's the main hub for anything Mir-related and packed with resources.
 
 > **What’s the difference between the Mir versions?**  
-Strap in. It’s a long ride through 2D sprites, half-finished 3D clients, publisher wars, and weird Korean patch notes.  
+Strap in. It’s a long ride through 2D sprites, half-finished 3D clients, publisher drama, and weird Korean patch notes.  
 Start with [thelegendofmir.uk](https://thelegendofmir.uk) if you're brave.
 
 > **Do you accept contributions?**  
-Definitely — just keep it clean.  
-I'm not as strict as *Far* on Crystal Mir 2, but I do appreciate tidy pull requests that don’t break half the server.
+Absolutely — clean, focused pull requests are always welcome.  
+If you're familiar with Crystal Mir 2, you'll know Far sets the bar high — and honestly, that's a good thing.
 
 ---
 
