@@ -62,22 +62,6 @@ Still early days, but it's a long-term passion project I keep coming back to.
 
 ---
 
-## 🟢 Discord Presence
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/265248093518168065?hideActivity=true&hideDecoration=true&showDisplayName=true)](https://discord.com/users/265248093518168065)
-
----
-
-## 💖 Support My Work
-
-<p>
-  <a href="https://www.paypal.com/paypalme/JevL0MCN">
-    <img src="https://i.imgur.com/7H8h8pj.png" height="100" width="100" alt="Buy me a drink via PayPal" />
-  </a>
-</p>
-
----
-
 ## ❓ FAQ
 
 > **Can I use your server files?**  
@@ -98,6 +82,22 @@ If you're familiar with Crystal Mir 2, you'll know [Far](https://github.com/Supr
 
 ---
 
+## 🟢 Discord Presence
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/265248093518168065?hideActivity=true&hideDecoration=true&showDisplayName=true)](https://discord.com/users/265248093518168065)
+
+---
+
+## 💖 Support My Work
+
+<p>
+  <a href="https://www.paypal.com/paypalme/JevL0MCN">
+    <img src="https://i.imgur.com/7H8h8pj.png" height="100" width="100" alt="Buy me a drink via PayPal" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p>
@@ -110,5 +110,7 @@ If you're familiar with Crystal Mir 2, you'll know [Far](https://github.com/Supr
 ---
 
 <p align="center">
-  <img width="800" height="67" src="https://www.mirfiles.com/resources/mir2/users/Jev/Mir1/Wiki/Mir1Banner.gif">
+  <a href="https://github.com/JevLOMCN/mir1" target="_blank" rel="noopener noreferrer">
+    <img width="800" height="67" src="https://www.mirfiles.com/resources/mir2/users/Jev/Mir1/Wiki/Mir1Banner.gif" alt="1997 Mir 1 Official Banner" />
+  </a>
 </p>
