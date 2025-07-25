@@ -17,20 +17,20 @@ Mostly known for my work on *Topaz Mir 4*, but I’ve been deep in the weeds of 
 
 ## 🛠 Projects I’m Involved In
 
-### 🌿 Carbon Mir 1 (Joint Project with lilcooldoode)
+### 🌿 [Carbon Mir 1](https://github.com/JevLOMCN/mir1) (Joint Project with lilcooldoode)
 A modernised, rebuilt-from-scratch Mir 1 server.  
 Co-developed with **lilcooldoode**—we've both put a lot of time into this one.  
 Still very much alive and being improved as we go.
 
-### 💎 Crystal Mir 2 (Contributor)
+### 💎 [Crystal Mir 2](https://github.com/Suprcode/Crystal) (Contributor)
 A powerful, open-source Mir 2 server.  
 I contribute regularly, but this one’s like an addiction.
 
-### 🔥 Topaz Mir 4 (Infamous For)
+### 🔥 [Topaz Mir 4](https://github.com/JevLOMCN/mir4) (Infamous For)
 Probably what I’m most known for… not sure if that’s a good or bad thing.  
 Public server files, client/server sync, tons of dev hours and stress went into this.
 
-### 🧬 Mir 3D – *Legend Eternal* Remake (WIP)
+### 🧬 [Mir 3D](https://github.com/JevLOMCN/Eternal-Legend) – *Legend Eternal* Remake (WIP)
 An ambitious remake of Shanda’s *Legend Eternal (传奇永恒)*.  
 Still early days, but it's a long-term passion project I keep coming back to.
 
@@ -75,6 +75,26 @@ Still early days, but it's a long-term passion project I keep coming back to.
     <img src="https://i.imgur.com/7H8h8pj.png" height="100" width="100" alt="Buy me a drink via PayPal" />
   </a>
 </p>
+
+---
+
+## ❓ FAQ
+
+> **Can I use your server files?**  
+Yes — all my projects are open source and free to use however you like.  
+Fork it, modify it, remix it. Just don’t blame me if it explodes.
+
+> **Will you help me set up a server?**  
+If I’ve got time and you’re not asking for spoon-feeding.  
+Bonus points if you've already read the docs or watched a setup video.
+
+> **What’s the difference between the Mir versions?**  
+Strap in. It’s a long ride through 2D sprites, half-finished 3D clients, publisher wars, and weird Korean patch notes.  
+Start with [thelegendofmir.uk](https://thelegendofmir.uk) if you're brave.
+
+> **Do you accept contributions?**  
+Definitely — just keep it clean.  
+I'm not as strict as *Far* on Crystal Mir 2, but I do appreciate tidy pull requests that don’t break half the server.
 
 ---
 
