@@ -17,20 +17,20 @@ Mostly known for my work on *Topaz Mir 4*, but I’ve been deep in the weeds of 
 
 ## 🛠 Projects I’m Involved In
 
-### 🌿 [Carbon Mir 1](https://github.com/JevLOMCN/mir1) (Joint Project with lilcooldoode)
+### <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir1.png" alt="Mir1" width="20"/> [Carbon Mir 1](https://github.com/JevLOMCN/mir1) (Joint Project with lilcooldoode)
 A modernised, rebuilt-from-scratch Mir 1 server.  
 Co-developed with **lilcooldoode**—we've both put a lot of time into this one.  
 Still very much alive and being improved as we go.
 
-### 💎 [Crystal Mir 2](https://github.com/Suprcode/Crystal) (Contributor)
+### <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir2.png" alt="Mir2" width="20"/> [Crystal Mir 2](https://github.com/Suprcode/Crystal) (Contributor)
 A powerful, open-source Mir 2 server.  
 I contribute regularly, but this one’s like an addiction.
 
-### 🔥 [Topaz Mir 4](https://github.com/JevLOMCN/mir4) (Infamous For)
+### <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir4.png" alt="Mir4" width="20"/> [Topaz Mir 4](https://github.com/JevLOMCN/mir4) (Infamous For)
 Probably what I’m most known for… not sure if that’s a good or bad thing.  
 Public server files, client/server sync, tons of dev hours and stress went into this.
 
-### 🧬 [Mir 3D](https://github.com/JevLOMCN/Eternal-Legend) – *Legend Eternal* Remake (WIP)
+### <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir3d.png" alt="Mir3D" width="20"/> [Mir 3D](https://github.com/JevLOMCN/Eternal-Legend) – *Legend Eternal* Remake (WIP)
 An ambitious remake of Shanda’s *Legend Eternal (传奇永恒)*.  
 Still early days, but it's a long-term passion project I keep coming back to.
 
