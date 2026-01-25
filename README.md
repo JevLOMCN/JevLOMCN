@@ -56,7 +56,7 @@ Still early days, but it's a long-term passion project I keep coming back to.
 ## 📫 Where to Find Me
 
 - **Discord**: jevlomcn  
-- **Forums**: [LOMCN.net](https://www.lomcn.net)  
+- **Forums**: [LOMCN.net](https://www.lomcn.net) & [RageZone.com](https://forum.ragezone.com)
 - **Website**: [thelegendofmir.uk](https://thelegendofmir.uk)  
 - **GitHub**: [JevLOMCN](https://github.com/JevLOMCN)
 
