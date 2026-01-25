@@ -59,6 +59,7 @@ Still early days, but it's a long-term passion project I keep coming back to.
 - **Forums**: [LOMCN.net](https://www.lomcn.net) & [RageZone.com](https://forum.ragezone.com)
 - **Website**: [thelegendofmir.uk](https://thelegendofmir.uk)  
 - **GitHub**: [JevLOMCN](https://github.com/JevLOMCN)
+- **YouTube**: [Jev](https://youtube.com/@jevlomcn)
 
 ---
 
