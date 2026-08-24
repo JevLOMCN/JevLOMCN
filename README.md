@@ -3,7 +3,7 @@
 Game developer based in Worthing, UK.  
 Mostly known for my work on *Topaz Mir 4*, but I’ve been deep in the weeds of Mir 1, 2, 3D, and 4.
 
-> Staff at **RaGEZONE** | Ex-Staff at **LOMCN** | Creator of **thelegendofmir.uk**
+> Staff at **RaGEZONE** | Ex-Staff at **LOMCN**
 
 ---
 
@@ -56,8 +56,7 @@ Still early days, but it's a long-term passion project I keep coming back to.
 ## 📫 Where to Find Me
 
 - **Discord**: jevlomcn  
-- **Forums**: [LOMCN.net](https://www.lomcn.net) & [RageZone.com](https://forum.ragezone.com)
-- **Website**: [thelegendofmir.uk](https://thelegendofmir.uk)  
+- **Forums**: [LOMCN.net](https://www.lomcn.net) & [RageZone.com](https://forum.ragezone.com) 
 - **GitHub**: [JevLOMCN](https://github.com/JevLOMCN)
 - **YouTube**: [Jev](https://youtube.com/@jevlomcn)
 
@@ -75,7 +74,6 @@ Best place to ask for help or find guides is over at [LOMCN.net](https://www.lom
 
 > **What’s the difference between the Mir versions?**  
 Strap in. It’s a long ride through 2D sprites, half-finished 3D clients, publisher drama, and weird Korean patch notes.  
-Start with [thelegendofmir.uk](https://thelegendofmir.uk) if you're brave.
 
 > **Do you accept contributions?**  
 Absolutely — clean, focused pull requests are always welcome.  
