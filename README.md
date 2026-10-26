@@ -30,7 +30,7 @@ I contribute regularly, but this one’s like an addiction.
 Probably what I’m most known for… not sure if that’s a good or bad thing.  
 Public server files, client/server sync, tons of dev hours and stress went into this.
 
-### <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir3d.png" alt="Mir3D" width="20"/> [Mir 3D](https://github.com/JevLOMCN/Eternal-Legend) – *Legend Eternal* Remake (WIP)
+### <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir3d.png" alt="Mir3D" width="20"/> [Mir 3D](https://github.com/JevLOMCN/CQYH) – *Legend Eternal* (WIP)
 An ambitious remake of Shanda’s *Legend Eternal (传奇永恒)*.  
 Still early days, but it's a long-term passion project I keep coming back to.
 
