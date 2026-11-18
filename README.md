@@ -16,7 +16,7 @@ These days I'm best known for **Topaz Mir 4**, but I've worked across almost eve
 
 ## 🛠 Projects
 
-### <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir1.png" alt="Mir1" width="20"/> [Carbon Mir 1](https://github.com/JevLOMCN/mir1)
+### <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir1.png" alt="Mir1" width="20"/> [Carbon Mir 1](https://github.com/JevLOMCN/Carbon)
 Modernised, rebuilt-from-scratch Mir 1 server.  
 Joint project with **lilcooldoode**. Still actively improved.
 
@@ -24,7 +24,7 @@ Joint project with **lilcooldoode**. Still actively improved.
 Long-time contributor (especially database work).  
 Been involved since the early days of the project.
 
-### <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir4.png" alt="Mir4" width="20"/> [Topaz Mir 4](https://github.com/JevLOMCN/mir4)
+### <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir4.png" alt="Mir4" width="20"/> [Topaz Mir 4](F)
 The project I'm most known for.  
 Public server files, client/server synchronisation, tooling, and ongoing development so the community can run proper private Mir 4 servers.
 
@@ -32,7 +32,7 @@ Public server files, client/server synchronisation, tooling, and ongoing develop
 Preservation and modernisation of the 2016 Shanda Games *Legend Eternal* (传奇永恒) Unreal Engine 3 client + C++ server source.  
 Long-term passion project: cleaned layout, modern build environment, English localisation, and bringing it closer to retail 1.05 behaviour.
 
-### <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir5.png" alt="Mir5" width="20"/> [DarkSteel Mir 5](https://mirfiles.co.uk/resources/mir2/users/Jev/Mir%205/Leaks)
+### <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir5.png" alt="Mir5" width="20"/> [DarkSteel Mir 5](https://github.com/JevLOMCN/DarkSteel)
 Working with the large development leak of the still-unreleased *Mir 5*.  
 Leaked files are available here: [Mir 5 Leaks](https://mirfiles.co.uk/resources/mir2/users/Jev/Mir%205/Leaks/)
 
