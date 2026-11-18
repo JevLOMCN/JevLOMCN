@@ -32,7 +32,7 @@ Public server files, client/server synchronisation, tooling, and ongoing develop
 Preservation and modernisation of the 2016 Shanda Games *Legend Eternal* (传奇永恒) Unreal Engine 3 client + C++ server source.  
 Long-term passion project: cleaned layout, modern build environment, English localisation, and bringing it closer to retail 1.05 behaviour.
 
-### <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir5.png" alt="Mir5" width="20"/> Mir 5
+### <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir5.png" alt="Mir5" width="20"/> [DarkSteel Mir 5](https://mirfiles.co.uk/resources/mir2/users/Jev/Mir%205/Leaks)
 Working with the large development leak of the still-unreleased *Mir 5*.  
 Leaked files are available here: [Mir 5 Leaks](https://mirfiles.co.uk/resources/mir2/users/Jev/Mir%205/Leaks/)
 
