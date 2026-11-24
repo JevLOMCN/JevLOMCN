@@ -24,7 +24,7 @@ Joint project with **lilcooldoode**. Still actively improved.
 Long-time contributor (especially database work).  
 Been involved since the early days of the project.
 
-### <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir4.png" alt="Mir4" width="20"/> [Topaz Mir 4](F)
+### <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir4.png" alt="Mir4" width="20"/> [Topaz Mir 4](https://github.com/JevLOMCN/Topaz)
 The project I'm most known for.  
 Public server files, client/server synchronisation, tooling, and ongoing development so the community can run proper private Mir 4 servers.
 
@@ -59,7 +59,7 @@ We are currently building a C# server emulator. The emulator is already function
 
 ## 📫 Where to find me
 
-- **Discord**: `jevlomcn`
+- **Discord**: `Jev#0537` (User ID: `265248093518168065`)
 - **Forums**: [LOMCN](https://www.lomcn.net) · [RaGEZONE](https://forum.ragezone.com)
 - **YouTube**: [Jev](https://youtube.com/@jevlomcn)
 - **GitHub**: [JevLOMCN](https://github.com/JevLOMCN)
