@@ -60,7 +60,7 @@ We are currently building a C# server emulator. The emulator is already function
 ## 📫 Where to find me
 
 - **Discord**: `jevlomcn` formerly `Jev#0537` (User ID: `265248093518168065`)
-- **Forums**: [LOMCN](https://www.lomcn.net) · [RaGEZONE](https://forum.ragezone.com)
+- **Forums**: [LOMCN](https://www.lomcn.net/forum/members/29880/) · [RaGEZONE](https://forum.ragezone.com/members/2000343015/)
 - **YouTube**: [Jev](https://youtube.com/@jevlomcn)
 - **GitHub**: [JevLOMCN](https://github.com/JevLOMCN)
 
